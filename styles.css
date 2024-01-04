@@ -39,7 +39,8 @@ ul {
     display: flex;
     justify-content: center;
     margin-top: 100px;
-    gap: 100px;
+    width-top: 900px;
+    gap: 50px;
 }
 
 .main-title {
@@ -50,7 +51,7 @@ ul {
 
 .img-placeholder {
     background-color: #6e6e6e;
-    width: 400px;
+    width: 450px;
     display: flex;
     justify-content: center;
     align-items: center;
