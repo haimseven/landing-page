@@ -26,6 +26,7 @@ ul {
 
 .header {
     display: flex;
+    width: 900px;
 }
 
 .logo {
@@ -37,6 +38,8 @@ ul {
 .main-info{
     display: flex;
     justify-content: center;
+    margin-top: 100px;
+    gap: 100px;
 }
 
 .main-title {
