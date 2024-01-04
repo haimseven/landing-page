@@ -24,6 +24,11 @@ ul {
     
 }
 
+.container2 {
+    height: 400px;
+    display: flex;
+}
+
 .header {
     display: flex;
     width: 900px;
