@@ -47,6 +47,14 @@ ul {
     align-items: center;
 }
 
+.container5 {
+    background-color: #1f2937;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .quote {
     display: flex;
     width: 800px;
