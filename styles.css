@@ -40,9 +40,13 @@ ul {
     align-items: center;
 }
 
+.container4 {
+    
+}
+
 .quote {
     display: flex;
-    width: 900px;
+    width: 800px;
     flex-direction: column;
 }
 
@@ -56,6 +60,7 @@ ul {
 
 .quote-name {
     display: flex;
+    font-size: 18px;
     font-weight: bold;
     justify-content: flex-end;
 }
